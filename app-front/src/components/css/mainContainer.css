@@ -1,0 +1,9 @@
+#root > div > div > main > div.row.featurette.p-4 {
+  box-shadow: 4.8px 1.1px 6.1px -4px rgba(0, 0, 0, 0.03),
+    11.2px 2.5px 11.5px -4px rgba(0, 0, 0, 0.028),
+    20px 4.5px 16.3px -4px rgba(0, 0, 0, 0.026),
+    33.2px 7.4px 21.3px -4px rgba(0, 0, 0, 0.025),
+    54.8px 12.2px 28px -4px rgba(0, 0, 0, 0.024),
+    95.7px 21.3px 40.9px -4px rgba(0, 0, 0, 0.024),
+    207px 46px 115px -4px rgba(0, 0, 0, 0.02);
+}

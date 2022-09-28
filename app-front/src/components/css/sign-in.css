@@ -1,0 +1,7 @@
+.register {
+  text-decoration: none;
+}
+
+#root > div > div > main > div.register.mb-3.text-center > a {
+  text-decoration: none;
+}

@@ -1,0 +1,75 @@
+#root
+  > div
+  > div
+  > main
+  > div.row.featurette.p-4
+  > div.col-md-7.order-md-2
+  > div
+  > a
+  > button {
+  background-color: #ebd8c3;
+  border: 2px solid #fff6ea;
+  padding: 15px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#root
+  > div
+  > div
+  > main
+  > div.row.featurette.p-4
+  > div.col-md-7.order-md-2
+  > div
+  > a
+  > button:hover {
+  color: #ffeeee;
+}
+
+#root
+  > div
+  > div
+  > main
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > a
+  > button {
+  background-color: #ebd8c3;
+  border: 2px solid #fff6ea;
+}
+
+#root
+  > div
+  > div
+  > main
+  > div
+  > div.productscreen__right
+  > div
+  > p:nth-child(4)
+  > button {
+  background-color: #ebd8c3;
+  border: 2px solid #fff6ea;
+  color: #000;
+}
+
+#root
+  > div
+  > div
+  > main
+  > div.cartscreen
+  > div.cartscreen__right
+  > div:nth-child(2)
+  > button {
+  background-color: #ebd8c3;
+  border: 2px solid #fff6ea;
+  color: #000;
+}
+
+#root > div > div > main > button {
+  background-color: #ebd8c3;
+  border: 2px solid #fff6ea;
+}

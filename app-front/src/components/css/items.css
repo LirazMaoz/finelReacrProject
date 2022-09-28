@@ -1,0 +1,17 @@
+.card-img-top {
+  width: 15vw;
+  height: 35vh;
+}
+
+#root > div > div > main > div > div > div > div > div {
+  display: grid;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}
+
+#root > div > div > main > div > div > div > div > div > img {
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}

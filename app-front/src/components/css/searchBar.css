@@ -1,0 +1,12 @@
+#root > div > div > main > div > div > a {
+  text-decoration: none;
+  color: rgb(95, 95, 95);
+}
+#root > div > div > main > div > div > a:hover {
+  background-color: rgb(238, 141, 43);
+}
+
+.search {
+  background-color: rgb(245, 242, 242);
+  z-index: 99999;
+}
